@@ -1,0 +1,3496 @@
+{
+  "1": {
+    "ing": "be",
+    "tr": "olmak",
+    "sonuç": 0,
+    "id": 1
+  ,"yardım": false
+  },
+  "2": {
+    "ing": "have",
+    "tr": "sahip olmak",
+    "sonuç": 0,
+    "id": 2
+  ,"yardım": false
+  },
+  "3": {
+    "ing": "do",
+    "tr": "yapmak",
+    "sonuç": 0,
+    "id": 3
+  ,"yardım": false
+  },
+  "4": {
+    "ing": "say",
+    "tr": "söylemek",
+    "sonuç": 0,
+    "id": 4
+  ,"yardım": false
+  },
+  "5": {
+    "ing": "get",
+    "tr": "almak",
+    "sonuç": 0,
+    "id": 5
+  ,"yardım": false
+  },
+  "6": {
+    "ing": "make",
+    "tr": "yapmak",
+    "sonuç": 0,
+    "id": 6
+  ,"yardım": false
+  },
+  "7": {
+    "ing": "go",
+    "tr": "gitmek",
+    "sonuç": 0,
+    "id": 7
+  ,"yardım": false
+  },
+  "8": {
+    "ing": "see",
+    "tr": "görmek",
+    "sonuç": 0,
+    "id": 8
+  ,"yardım": false
+  },
+  "9": {
+    "ing": "know",
+    "tr": "bilmek",
+    "sonuç": 0,
+    "id": 9
+  ,"yardım": false
+  },
+  "10": {
+    "ing": "take",
+    "tr": "almak",
+    "sonuç": 0,
+    "id": 10
+  ,"yardım": false
+  },
+  "11": {
+    "ing": "think",
+    "tr": "düşünmek",
+    "sonuç": 0,
+    "id": 11
+  ,"yardım": false
+  },
+  "12": {
+    "ing": "come",
+    "tr": "gelmek",
+    "sonuç": 0,
+    "id": 12
+  ,"yardım": false
+  },
+  "13": {
+    "ing": "give",
+    "tr": "vermek",
+    "sonuç": 0,
+    "id": 13
+  ,"yardım": false
+  },
+  "14": {
+    "ing": "look",
+    "tr": "bakmak",
+    "sonuç": 0,
+    "id": 14
+  ,"yardım": false
+  },
+  "15": {
+    "ing": "use",
+    "tr": "kullanmak",
+    "sonuç": 0,
+    "id": 15
+  ,"yardım": false
+  },
+  "16": {
+    "ing": "find",
+    "tr": "bulmak",
+    "sonuç": 0,
+    "id": 16
+  ,"yardım": false
+  },
+  "17": {
+    "ing": "want",
+    "tr": "istemek",
+    "sonuç": 0,
+    "id": 17
+  ,"yardım": false
+  },
+  "18": {
+    "ing": "tell",
+    "tr": "söylemek",
+    "sonuç": 0,
+    "id": 18
+  ,"yardım": false
+  },
+  "19": {
+    "ing": "put",
+    "tr": "koymak",
+    "sonuç": 0,
+    "id": 19
+  ,"yardım": false
+  },
+  "20": {
+    "ing": "mean",
+    "tr": "kastetmek",
+    "sonuç": 0,
+    "id": 20
+  ,"yardım": false
+  },
+  "21": {
+    "ing": "become",
+    "tr": "olmak",
+    "sonuç": 0,
+    "id": 21
+  ,"yardım": false
+  },
+  "22": {
+    "ing": "leave",
+    "tr": "bırakmak",
+    "sonuç": 0,
+    "id": 22
+  ,"yardım": false
+  },
+  "23": {
+    "ing": "work",
+    "tr": "çalışmak",
+    "sonuç": 0,
+    "id": 23
+  ,"yardım": false
+  },
+  "24": {
+    "ing": "need",
+    "tr": "istemek",
+    "sonuç": 0,
+    "id": 24
+  ,"yardım": false
+  },
+  "25": {
+    "ing": "feel",
+    "tr": "hissetmek",
+    "sonuç": 0,
+    "id": 25
+  ,"yardım": false
+  },
+  "26": {
+    "ing": "seem",
+    "tr": "görünmek",
+    "sonuç": 0,
+    "id": 26
+  ,"yardım": false
+  },
+  "27": {
+    "ing": "ask",
+    "tr": "sormak",
+    "sonuç": 0,
+    "id": 27
+  ,"yardım": false
+  },
+  "28": {
+    "ing": "show",
+    "tr": "göstermek",
+    "sonuç": 0,
+    "id": 28
+  ,"yardım": false
+  },
+  "29": {
+    "ing": "try",
+    "tr": "denemek",
+    "sonuç": 0,
+    "id": 29
+  ,"yardım": false
+  },
+  "30": {
+    "ing": "call",
+    "tr": "aramak",
+    "sonuç": 0,
+    "id": 30
+  ,"yardım": false
+  },
+  "31": {
+    "ing": "keep",
+    "tr": "tutmak",
+    "sonuç": 0,
+    "id": 31
+  ,"yardım": false
+  },
+  "32": {
+    "ing": "provide",
+    "tr": "sağlamak",
+    "sonuç": 0,
+    "id": 32
+  ,"yardım": false
+  },
+  "33": {
+    "ing": "hold",
+    "tr": "tutmak",
+    "sonuç": 0,
+    "id": 33
+  ,"yardım": false
+  },
+  "34": {
+    "ing": "turn",
+    "tr": "dönmek",
+    "sonuç": 0,
+    "id": 34
+  ,"yardım": false
+  },
+  "35": {
+    "ing": "follow",
+    "tr": "takip etmek",
+    "sonuç": 0,
+    "id": 35
+  ,"yardım": false
+  },
+  "36": {
+    "ing": "begin",
+    "tr": "başlamak",
+    "sonuç": 0,
+    "id": 36
+  ,"yardım": false
+  },
+  "37": {
+    "ing": "bring",
+    "tr": "getirmek",
+    "sonuç": 0,
+    "id": 37
+  ,"yardım": false
+  },
+  "38": {
+    "ing": "like",
+    "tr": "hoşlanmak",
+    "sonuç": 0,
+    "id": 38
+  ,"yardım": false
+  },
+  "39": {
+    "ing": "help",
+    "tr": "yardım etmek",
+    "sonuç": 0,
+    "id": 39
+  ,"yardım": false
+  },
+  "40": {
+    "ing": "start",
+    "tr": "başlamak",
+    "sonuç": 0,
+    "id": 40
+  ,"yardım": false
+  },
+  "41": {
+    "ing": "run",
+    "tr": "koşmak",
+    "sonuç": 0,
+    "id": 41
+  ,"yardım": false
+  },
+  "42": {
+    "ing": "write",
+    "tr": "yazmak",
+    "sonuç": 0,
+    "id": 42
+  ,"yardım": false
+  },
+  "43": {
+    "ing": "set",
+    "tr": "kurmak",
+    "sonuç": 0,
+    "id": 43
+  ,"yardım": false
+  },
+  "44": {
+    "ing": "move",
+    "tr": "ilerlemek",
+    "sonuç": 0,
+    "id": 44
+  ,"yardım": false
+  },
+  "45": {
+    "ing": "play",
+    "tr": "oynamak",
+    "sonuç": 0,
+    "id": 45
+  ,"yardım": false
+  },
+  "46": {
+    "ing": "pay",
+    "tr": "ödemek",
+    "sonuç": 0,
+    "id": 46
+  ,"yardım": false
+  },
+  "47": {
+    "ing": "hear",
+    "tr": "duymak",
+    "sonuç": 0,
+    "id": 47
+  ,"yardım": false
+  },
+  "48": {
+    "ing": "include",
+    "tr": "katmak",
+    "sonuç": 0,
+    "id": 48
+  ,"yardım": false
+  },
+  "49": {
+    "ing": "believe",
+    "tr": "inanmak",
+    "sonuç": 0,
+    "id": 49
+  ,"yardım": false
+  },
+  "50": {
+    "ing": "allow",
+    "tr": "izin vermek",
+    "sonuç": 0,
+    "id": 50
+  ,"yardım": false
+  },
+  "51": {
+    "ing": "meet",
+    "tr": "tanışmak",
+    "sonuç": 0,
+    "id": 51
+  ,"yardım": false
+  },
+  "52": {
+    "ing": "lead",
+    "tr": "yönlendirmek",
+    "sonuç": 0,
+    "id": 52
+  ,"yardım": false
+  },
+  "53": {
+    "ing": "live",
+    "tr": "yaşamak",
+    "sonuç": 0,
+    "id": 53
+  ,"yardım": false
+  },
+  "54": {
+    "ing": "stand",
+    "tr": "durmak",
+    "sonuç": 0,
+    "id": 54
+  ,"yardım": false
+  },
+  "55": {
+    "ing": "happen",
+    "tr": "olmak",
+    "sonuç": 0,
+    "id": 55
+  ,"yardım": false
+  },
+  "56": {
+    "ing": "carry",
+    "tr": "taşımak",
+    "sonuç": 0,
+    "id": 56
+  ,"yardım": false
+  },
+  "57": {
+    "ing": "talk",
+    "tr": "konuşmak",
+    "sonuç": 0,
+    "id": 57
+  ,"yardım": false
+  },
+  "58": {
+    "ing": "appear",
+    "tr": "ortaya çıkmak",
+    "sonuç": 0,
+    "id": 58
+  ,"yardım": false
+  },
+  "59": {
+    "ing": "produce",
+    "tr": "üretmek",
+    "sonuç": 0,
+    "id": 59
+  ,"yardım": false
+  },
+  "60": {
+    "ing": "sit",
+    "tr": "oturmak",
+    "sonuç": 0,
+    "id": 60
+  ,"yardım": false
+  },
+  "61": {
+    "ing": "offer",
+    "tr": "teklif etmek",
+    "sonuç": 0,
+    "id": 61
+  ,"yardım": false
+  },
+  "62": {
+    "ing": "consider",
+    "tr": "düşünmek",
+    "sonuç": 0,
+    "id": 62
+  ,"yardım": false
+  },
+  "63": {
+    "ing": "expect",
+    "tr": "beklemek",
+    "sonuç": 0,
+    "id": 63
+  ,"yardım": false
+  },
+  "64": {
+    "ing": "suggest",
+    "tr": "önermek",
+    "sonuç": 0,
+    "id": 64
+  ,"yardım": false
+  },
+  "65": {
+    "ing": "let",
+    "tr": "izin vermek",
+    "sonuç": 0,
+    "id": 65
+  ,"yardım": false
+  },
+  "66": {
+    "ing": "read",
+    "tr": "okumak",
+    "sonuç": 0,
+    "id": 66
+  ,"yardım": false
+  },
+  "67": {
+    "ing": "require",
+    "tr": "istemek",
+    "sonuç": 0,
+    "id": 67
+  ,"yardım": false
+  },
+  "68": {
+    "ing": "continue",
+    "tr": "devam etmek",
+    "sonuç": 0,
+    "id": 68
+  ,"yardım": false
+  },
+  "69": {
+    "ing": "lose",
+    "tr": "kaybetmek",
+    "sonuç": 0,
+    "id": 69
+  ,"yardım": false
+  },
+  "70": {
+    "ing": "add",
+    "tr": "eklemek",
+    "sonuç": 0,
+    "id": 70
+  ,"yardım": false
+  },
+  "71": {
+    "ing": "change",
+    "tr": "değiştirmek",
+    "sonuç": 0,
+    "id": 71
+  ,"yardım": false
+  },
+  "72": {
+    "ing": "fall",
+    "tr": "düşmek",
+    "sonuç": 0,
+    "id": 72
+  ,"yardım": false
+  },
+  "73": {
+    "ing": "remain",
+    "tr": "kalmak",
+    "sonuç": 0,
+    "id": 73
+  ,"yardım": false
+  },
+  "74": {
+    "ing": "remember",
+    "tr": "hatırlamak",
+    "sonuç": 0,
+    "id": 74
+  ,"yardım": false
+  },
+  "75": {
+    "ing": "buy",
+    "tr": "satın almak",
+    "sonuç": 0,
+    "id": 75
+  ,"yardım": false
+  },
+  "76": {
+    "ing": "speak",
+    "tr": "konuşmak",
+    "sonuç": 0,
+    "id": 76
+  ,"yardım": false
+  },
+  "77": {
+    "ing": "stop",
+    "tr": "durmak",
+    "sonuç": 0,
+    "id": 77
+  ,"yardım": false
+  },
+  "78": {
+    "ing": "send",
+    "tr": "göndermek",
+    "sonuç": 0,
+    "id": 78
+  ,"yardım": false
+  },
+  "79": {
+    "ing": "receive",
+    "tr": "almak",
+    "sonuç": 0,
+    "id": 79
+  ,"yardım": false
+  },
+  "80": {
+    "ing": "decide",
+    "tr": "karar vermek",
+    "sonuç": 0,
+    "id": 80
+  ,"yardım": false
+  },
+  "81": {
+    "ing": "win",
+    "tr": "kazanmak",
+    "sonuç": 0,
+    "id": 81
+  ,"yardım": false
+  },
+  "82": {
+    "ing": "understand",
+    "tr": "anlamak",
+    "sonuç": 0,
+    "id": 82
+  ,"yardım": false
+  },
+  "83": {
+    "ing": "describe",
+    "tr": "açıklamak",
+    "sonuç": 0,
+    "id": 83
+  ,"yardım": false
+  },
+  "84": {
+    "ing": "develop",
+    "tr": "geliştirmek",
+    "sonuç": 0,
+    "id": 84
+  ,"yardım": false
+  },
+  "85": {
+    "ing": "agree",
+    "tr": "katılmak",
+    "sonuç": 0,
+    "id": 85
+  ,"yardım": false
+  },
+  "86": {
+    "ing": "open",
+    "tr": "açmak",
+    "sonuç": 0,
+    "id": 86
+  ,"yardım": false
+  },
+  "87": {
+    "ing": "reach",
+    "tr": "yetişmek",
+    "sonuç": 0,
+    "id": 87
+  ,"yardım": false
+  },
+  "88": {
+    "ing": "build",
+    "tr": "inşa etmek",
+    "sonuç": 0,
+    "id": 88
+  ,"yardım": false
+  },
+  "89": {
+    "ing": "involve",
+    "tr": "içermek",
+    "sonuç": 0,
+    "id": 89
+  ,"yardım": false
+  },
+  "90": {
+    "ing": "spend",
+    "tr": "harcamak",
+    "sonuç": 0,
+    "id": 90
+  ,"yardım": false
+  },
+  "91": {
+    "ing": "return",
+    "tr": "dönmek",
+    "sonuç": 0,
+    "id": 91
+  ,"yardım": false
+  },
+  "92": {
+    "ing": "draw",
+    "tr": "çizmek",
+    "sonuç": 0,
+    "id": 92
+  ,"yardım": false
+  },
+  "93": {
+    "ing": "die",
+    "tr": "ölmek",
+    "sonuç": 0,
+    "id": 93
+  ,"yardım": false
+  },
+  "94": {
+    "ing": "hope",
+    "tr": "umutlanmak",
+    "sonuç": 0,
+    "id": 94
+  ,"yardım": false
+  },
+  "95": {
+    "ing": "create",
+    "tr": "yaratmak",
+    "sonuç": 0,
+    "id": 95
+  ,"yardım": false
+  },
+  "96": {
+    "ing": "walk",
+    "tr": "yürümek",
+    "sonuç": 0,
+    "id": 96
+  ,"yardım": false
+  },
+  "97": {
+    "ing": "sell",
+    "tr": "satmak",
+    "sonuç": 0,
+    "id": 97
+  ,"yardım": false
+  },
+  "98": {
+    "ing": "wait",
+    "tr": "beklemek",
+    "sonuç": 0,
+    "id": 98
+  ,"yardım": false
+  },
+  "99": {
+    "ing": "cause",
+    "tr": "sebep olmak",
+    "sonuç": 0,
+    "id": 99
+  ,"yardım": false
+  },
+  "100": {
+    "ing": "pass",
+    "tr": "geçmek",
+    "sonuç": 0,
+    "id": 100
+  ,"yardım": false
+  },
+  "101": {
+    "ing": "lie",
+    "tr": "yalan söylemek",
+    "sonuç": 0,
+    "id": 101
+  ,"yardım": false
+  },
+  "102": {
+    "ing": "accept",
+    "tr": "kabul etmek",
+    "sonuç": 0,
+    "id": 102
+  ,"yardım": false
+  },
+  "103": {
+    "ing": "watch",
+    "tr": "izlemek",
+    "sonuç": 0,
+    "id": 103
+  ,"yardım": false
+  },
+  "104": {
+    "ing": "raise",
+    "tr": "yükselmek",
+    "sonuç": 0,
+    "id": 104
+  ,"yardım": false
+  },
+  "105": {
+    "ing": "base",
+    "tr": "dayandırmak",
+    "sonuç": 0,
+    "id": 105
+  ,"yardım": false
+  },
+  "106": {
+    "ing": "apply",
+    "tr": "uygulamak",
+    "sonuç": 0,
+    "id": 106
+  ,"yardım": false
+  },
+  "107": {
+    "ing": "break",
+    "tr": "kırmak",
+    "sonuç": 0,
+    "id": 107
+  ,"yardım": false
+  },
+  "108": {
+    "ing": "explain",
+    "tr": "açıklamak",
+    "sonuç": 0,
+    "id": 108
+  ,"yardım": false
+  },
+  "109": {
+    "ing": "learn",
+    "tr": "öğrenmek",
+    "sonuç": 0,
+    "id": 109
+  ,"yardım": false
+  },
+  "110": {
+    "ing": "increase",
+    "tr": "artmak",
+    "sonuç": 0,
+    "id": 110
+  ,"yardım": false
+  },
+  "111": {
+    "ing": "cover",
+    "tr": "örtmek",
+    "sonuç": 0,
+    "id": 111
+  ,"yardım": false
+  },
+  "112": {
+    "ing": "grow",
+    "tr": "büyümek",
+    "sonuç": 0,
+    "id": 112
+  ,"yardım": false
+  },
+  "113": {
+    "ing": "claim",
+    "tr": "istemek",
+    "sonuç": 0,
+    "id": 113
+  ,"yardım": false
+  },
+  "114": {
+    "ing": "report",
+    "tr": "bildirmek",
+    "sonuç": 0,
+    "id": 114
+  ,"yardım": false
+  },
+  "115": {
+    "ing": "support",
+    "tr": "desteklemek",
+    "sonuç": 0,
+    "id": 115
+  ,"yardım": false
+  },
+  "116": {
+    "ing": "cut",
+    "tr": "kesmek",
+    "sonuç": 0,
+    "id": 116
+  ,"yardım": false
+  },
+  "117": {
+    "ing": "form",
+    "tr": "oluşturmak",
+    "sonuç": 0,
+    "id": 117
+  ,"yardım": false
+  },
+  "118": {
+    "ing": "stay",
+    "tr": "kalmak",
+    "sonuç": 0,
+    "id": 118
+  ,"yardım": false
+  },
+  "119": {
+    "ing": "contain",
+    "tr": "kapsamak",
+    "sonuç": 0,
+    "id": 119
+  ,"yardım": false
+  },
+  "120": {
+    "ing": "reduce",
+    "tr": "azaltmak",
+    "sonuç": 0,
+    "id": 120
+  ,"yardım": false
+  },
+  "121": {
+    "ing": "establish",
+    "tr": "kurmak",
+    "sonuç": 0,
+    "id": 121
+  ,"yardım": false
+  },
+  "122": {
+    "ing": "join",
+    "tr": "katılmak",
+    "sonuç": 0,
+    "id": 122
+  ,"yardım": false
+  },
+  "123": {
+    "ing": "wish",
+    "tr": "dilemek",
+    "sonuç": 0,
+    "id": 123
+  ,"yardım": false
+  },
+  "124": {
+    "ing": "achieve",
+    "tr": "başarmak",
+    "sonuç": 0,
+    "id": 124
+  ,"yardım": false
+  },
+  "125": {
+    "ing": "seek",
+    "tr": "aramak",
+    "sonuç": 0,
+    "id": 125
+  ,"yardım": false
+  },
+  "126": {
+    "ing": "choose",
+    "tr": "seçmek",
+    "sonuç": 0,
+    "id": 126
+  ,"yardım": false
+  },
+  "127": {
+    "ing": "deal",
+    "tr": "anlaşmak",
+    "sonuç": 0,
+    "id": 127
+  ,"yardım": false
+  },
+  "128": {
+    "ing": "face",
+    "tr": "yüzleşmek",
+    "sonuç": 0,
+    "id": 128
+  ,"yardım": false
+  },
+  "129": {
+    "ing": "fail",
+    "tr": "başarısız olmak",
+    "sonuç": 0,
+    "id": 129
+  ,"yardım": false
+  },
+  "130": {
+    "ing": "serve",
+    "tr": "servis etmek",
+    "sonuç": 0,
+    "id": 130
+  ,"yardım": false
+  },
+  "131": {
+    "ing": "end",
+    "tr": "bitirmek",
+    "sonuç": 0,
+    "id": 131
+  ,"yardım": false
+  },
+  "132": {
+    "ing": "kill",
+    "tr": "öldürmek",
+    "sonuç": 0,
+    "id": 132
+  ,"yardım": false
+  },
+  "133": {
+    "ing": "occur",
+    "tr": "olmak",
+    "sonuç": 0,
+    "id": 133
+  ,"yardım": false
+  },
+  "134": {
+    "ing": "drive",
+    "tr": "kullanmak",
+    "sonuç": 0,
+    "id": 134
+  ,"yardım": false
+  },
+  "135": {
+    "ing": "represent",
+    "tr": "anlatmak",
+    "sonuç": 0,
+    "id": 135
+  ,"yardım": false
+  },
+  "136": {
+    "ing": "rise",
+    "tr": "yükselmek",
+    "sonuç": 0,
+    "id": 136
+  ,"yardım": false
+  },
+  "137": {
+    "ing": "discuss",
+    "tr": "tartışmak",
+    "sonuç": 0,
+    "id": 137
+  ,"yardım": false
+  },
+  "138": {
+    "ing": "love",
+    "tr": "sevmek",
+    "sonuç": 0,
+    "id": 138
+  ,"yardım": false
+  },
+  "139": {
+    "ing": "pick",
+    "tr": "seçmek",
+    "sonuç": 0,
+    "id": 139
+  ,"yardım": false
+  },
+  "140": {
+    "ing": "place",
+    "tr": "yerleştirmek",
+    "sonuç": 0,
+    "id": 140
+  ,"yardım": false
+  },
+  "141": {
+    "ing": "argue",
+    "tr": "tartışmak",
+    "sonuç": 0,
+    "id": 141
+  ,"yardım": false
+  },
+  "142": {
+    "ing": "prove",
+    "tr": "kanıtlamak",
+    "sonuç": 0,
+    "id": 142
+  ,"yardım": false
+  },
+  "143": {
+    "ing": "wear",
+    "tr": "giymek",
+    "sonuç": 0,
+    "id": 143
+  ,"yardım": false
+  },
+  "144": {
+    "ing": "catch",
+    "tr": "yakalamak",
+    "sonuç": 0,
+    "id": 144
+  ,"yardım": false
+  },
+  "145": {
+    "ing": "enjoy",
+    "tr": "keyfine varmak",
+    "sonuç": 0,
+    "id": 145
+  ,"yardım": false
+  },
+  "146": {
+    "ing": "eat",
+    "tr": "yemek",
+    "sonuç": 0,
+    "id": 146
+  ,"yardım": false
+  },
+  "147": {
+    "ing": "introduce",
+    "tr": "tanıtmak",
+    "sonuç": 0,
+    "id": 147
+  ,"yardım": false
+  },
+  "148": {
+    "ing": "enter",
+    "tr": "girmek",
+    "sonuç": 0,
+    "id": 148
+  ,"yardım": false
+  },
+  "149": {
+    "ing": "present",
+    "tr": "sunmak",
+    "sonuç": 0,
+    "id": 149
+  ,"yardım": false
+  },
+  "150": {
+    "ing": "arrive",
+    "tr": "varmak",
+    "sonuç": 0,
+    "id": 150
+  ,"yardım": false
+  },
+  "151": {
+    "ing": "ensure",
+    "tr": "sağlamak",
+    "sonuç": 0,
+    "id": 151
+  ,"yardım": false
+  },
+  "152": {
+    "ing": "point",
+    "tr": "göstermek",
+    "sonuç": 0,
+    "id": 152
+  ,"yardım": false
+  },
+  "153": {
+    "ing": "plan",
+    "tr": "planlamak",
+    "sonuç": 0,
+    "id": 153
+  ,"yardım": false
+  },
+  "154": {
+    "ing": "pull",
+    "tr": "çekmek",
+    "sonuç": 0,
+    "id": 154
+  ,"yardım": false
+  },
+  "155": {
+    "ing": "refer",
+    "tr": "anmak",
+    "sonuç": 0,
+    "id": 155
+  ,"yardım": false
+  },
+  "156": {
+    "ing": "act",
+    "tr": "davranmak",
+    "sonuç": 0,
+    "id": 156
+  ,"yardım": false
+  },
+  "157": {
+    "ing": "relate",
+    "tr": "ilgilenmek",
+    "sonuç": 0,
+    "id": 157
+  ,"yardım": false
+  },
+  "158": {
+    "ing": "affect",
+    "tr": "etkilemek",
+    "sonuç": 0,
+    "id": 158
+  ,"yardım": false
+  },
+  "159": {
+    "ing": "close",
+    "tr": "kapatmak",
+    "sonuç": 0,
+    "id": 159
+  ,"yardım": false
+  },
+  "160": {
+    "ing": "identify",
+    "tr": "tanımak",
+    "sonuç": 0,
+    "id": 160
+  ,"yardım": false
+  },
+  "161": {
+    "ing": "manage",
+    "tr": "yönetmek",
+    "sonuç": 0,
+    "id": 161
+  ,"yardım": false
+  },
+  "162": {
+    "ing": "thank",
+    "tr": "teşekkür etmek",
+    "sonuç": 0,
+    "id": 162
+  ,"yardım": false
+  },
+  "163": {
+    "ing": "compare",
+    "tr": "karşılaştırmak",
+    "sonuç": 0,
+    "id": 163
+  ,"yardım": false
+  },
+  "164": {
+    "ing": "announce",
+    "tr": "sunmak",
+    "sonuç": 0,
+    "id": 164
+  ,"yardım": false
+  },
+  "165": {
+    "ing": "obtain",
+    "tr": "edinmek",
+    "sonuç": 0,
+    "id": 165
+  ,"yardım": false
+  },
+  "166": {
+    "ing": "note",
+    "tr": "not almak",
+    "sonuç": 0,
+    "id": 166
+  ,"yardım": false
+  },
+  "167": {
+    "ing": "forget",
+    "tr": "unutmak",
+    "sonuç": 0,
+    "id": 167
+  ,"yardım": false
+  },
+  "168": {
+    "ing": "indicate",
+    "tr": "belirtmek",
+    "sonuç": 0,
+    "id": 168
+  ,"yardım": false
+  },
+  "169": {
+    "ing": "wonder",
+    "tr": "merak etmek",
+    "sonuç": 0,
+    "id": 169
+  ,"yardım": false
+  },
+  "170": {
+    "ing": "maintain",
+    "tr": "korumak",
+    "sonuç": 0,
+    "id": 170
+  ,"yardım": false
+  },
+  "171": {
+    "ing": "publish",
+    "tr": "yayınlamak",
+    "sonuç": 0,
+    "id": 171
+  ,"yardım": false
+  },
+  "172": {
+    "ing": "suffer",
+    "tr": "acı çekmek",
+    "sonuç": 0,
+    "id": 172
+  ,"yardım": false
+  },
+  "173": {
+    "ing": "avoid",
+    "tr": "kaçınmak",
+    "sonuç": 0,
+    "id": 173
+  ,"yardım": false
+  },
+  "174": {
+    "ing": "express",
+    "tr": "açıklamak",
+    "sonuç": 0,
+    "id": 174
+  ,"yardım": false
+  },
+  "175": {
+    "ing": "suppose",
+    "tr": "sanmak",
+    "sonuç": 0,
+    "id": 175
+  ,"yardım": false
+  },
+  "176": {
+    "ing": "finish",
+    "tr": "bitirmek",
+    "sonuç": 0,
+    "id": 176
+  ,"yardım": false
+  },
+  "177": {
+    "ing": "determine",
+    "tr": "belirtmek",
+    "sonuç": 0,
+    "id": 177
+  ,"yardım": false
+  },
+  "178": {
+    "ing": "design",
+    "tr": "tasarlamak",
+    "sonuç": 0,
+    "id": 178
+  ,"yardım": false
+  },
+  "179": {
+    "ing": "listen",
+    "tr": "dinlemek",
+    "sonuç": 0,
+    "id": 179
+  ,"yardım": false
+  },
+  "180": {
+    "ing": "save",
+    "tr": "kaydetmek",
+    "sonuç": 0,
+    "id": 180
+  ,"yardım": false
+  },
+  "181": {
+    "ing": "tend",
+    "tr": "ilgilenmek",
+    "sonuç": 0,
+    "id": 181
+  ,"yardım": false
+  },
+  "182": {
+    "ing": "treat",
+    "tr": "iyileştirmek",
+    "sonuç": 0,
+    "id": 182
+  ,"yardım": false
+  },
+  "183": {
+    "ing": "control",
+    "tr": "kontrol etmek",
+    "sonuç": 0,
+    "id": 183
+  ,"yardım": false
+  },
+  "184": {
+    "ing": "share",
+    "tr": "paylaşmak",
+    "sonuç": 0,
+    "id": 184
+  ,"yardım": false
+  },
+  "185": {
+    "ing": "remove",
+    "tr": "çıkarmak",
+    "sonuç": 0,
+    "id": 185
+  ,"yardım": false
+  },
+  "186": {
+    "ing": "throw",
+    "tr": "atmak",
+    "sonuç": 0,
+    "id": 186
+  ,"yardım": false
+  },
+  "187": {
+    "ing": "visit",
+    "tr": "ziyaret etmek",
+    "sonuç": 0,
+    "id": 187
+  ,"yardım": false
+  },
+  "188": {
+    "ing": "exist",
+    "tr": "var olmak",
+    "sonuç": 0,
+    "id": 188
+  ,"yardım": false
+  },
+  "189": {
+    "ing": "encourage",
+    "tr": "cesaretlendirmek",
+    "sonuç": 0,
+    "id": 189
+  ,"yardım": false
+  },
+  "190": {
+    "ing": "force",
+    "tr": "zorlamak",
+    "sonuç": 0,
+    "id": 190
+  ,"yardım": false
+  },
+  "191": {
+    "ing": "reflect",
+    "tr": "yansıtmak",
+    "sonuç": 0,
+    "id": 191
+  ,"yardım": false
+  },
+  "192": {
+    "ing": "admit",
+    "tr": "itiraf etmek",
+    "sonuç": 0,
+    "id": 192
+  ,"yardım": false
+  },
+  "193": {
+    "ing": "assume",
+    "tr": "varsaymak",
+    "sonuç": 0,
+    "id": 193
+  ,"yardım": false
+  },
+  "194": {
+    "ing": "smile",
+    "tr": "gülmek",
+    "sonuç": 0,
+    "id": 194
+  ,"yardım": false
+  },
+  "195": {
+    "ing": "prepare",
+    "tr": "hazırlanmak",
+    "sonuç": 0,
+    "id": 195
+  ,"yardım": false
+  },
+  "196": {
+    "ing": "replace",
+    "tr": "yerine koymak",
+    "sonuç": 0,
+    "id": 196
+  ,"yardım": false
+  },
+  "197": {
+    "ing": "fill",
+    "tr": "doldurmak",
+    "sonuç": 0,
+    "id": 197
+  ,"yardım": false
+  },
+  "198": {
+    "ing": "improve",
+    "tr": "gelişmek",
+    "sonuç": 0,
+    "id": 198
+  ,"yardım": false
+  },
+  "199": {
+    "ing": "mention",
+    "tr": "bahsetmek",
+    "sonuç": 0,
+    "id": 199
+  ,"yardım": false
+  },
+  "200": {
+    "ing": "fight",
+    "tr": "savaşmak",
+    "sonuç": 0,
+    "id": 200
+  ,"yardım": false
+  },
+  "201": {
+    "ing": "intend",
+    "tr": "istemek",
+    "sonuç": 0,
+    "id": 201
+  ,"yardım": false
+  },
+  "202": {
+    "ing": "miss",
+    "tr": "kaçırmak",
+    "sonuç": 0,
+    "id": 202
+  ,"yardım": false
+  },
+  "203": {
+    "ing": "discover",
+    "tr": "keşfetmek",
+    "sonuç": 0,
+    "id": 203
+  ,"yardım": false
+  },
+  "204": {
+    "ing": "drop",
+    "tr": "düşürmek",
+    "sonuç": 0,
+    "id": 204
+  ,"yardım": false
+  },
+  "205": {
+    "ing": "hit",
+    "tr": "vurmak",
+    "sonuç": 0,
+    "id": 205
+  ,"yardım": false
+  },
+  "206": {
+    "ing": "push",
+    "tr": "ittirmek",
+    "sonuç": 0,
+    "id": 206
+  ,"yardım": false
+  },
+  "207": {
+    "ing": "prevent",
+    "tr": "engellemek",
+    "sonuç": 0,
+    "id": 207
+  ,"yardım": false
+  },
+  "208": {
+    "ing": "refuse",
+    "tr": "itiraz etmek",
+    "sonuç": 0,
+    "id": 208
+  ,"yardım": false
+  },
+  "209": {
+    "ing": "regard",
+    "tr": "saymak",
+    "sonuç": 0,
+    "id": 209
+  ,"yardım": false
+  },
+  "210": {
+    "ing": "lay",
+    "tr": "sermek",
+    "sonuç": 0,
+    "id": 210
+  ,"yardım": false
+  },
+  "211": {
+    "ing": "reveal",
+    "tr": "açıklamak",
+    "sonuç": 0,
+    "id": 211
+  ,"yardım": false
+  },
+  "212": {
+    "ing": "teach",
+    "tr": "öğretmek",
+    "sonuç": 0,
+    "id": 212
+  ,"yardım": false
+  },
+  "213": {
+    "ing": "answer",
+    "tr": "cevaplamak",
+    "sonuç": 0,
+    "id": 213
+  ,"yardım": false
+  },
+  "214": {
+    "ing": "operate",
+    "tr": "işletmek",
+    "sonuç": 0,
+    "id": 214
+  ,"yardım": false
+  },
+  "215": {
+    "ing": "state",
+    "tr": "belirtmek",
+    "sonuç": 0,
+    "id": 215
+  ,"yardım": false
+  },
+  "216": {
+    "ing": "depend",
+    "tr": "bağlanmak",
+    "sonuç": 0,
+    "id": 216
+  ,"yardım": false
+  },
+  "217": {
+    "ing": "enable",
+    "tr": "izin vermek",
+    "sonuç": 0,
+    "id": 217
+  ,"yardım": false
+  },
+  "218": {
+    "ing": "record",
+    "tr": "kaydetmek",
+    "sonuç": 0,
+    "id": 218
+  ,"yardım": false
+  },
+  "219": {
+    "ing": "check",
+    "tr": "bakmak",
+    "sonuç": 0,
+    "id": 219
+  ,"yardım": false
+  },
+  "220": {
+    "ing": "complete",
+    "tr": "tamamlamak",
+    "sonuç": 0,
+    "id": 220
+  ,"yardım": false
+  },
+  "221": {
+    "ing": "cost",
+    "tr": "mal olmak",
+    "sonuç": 0,
+    "id": 221
+  ,"yardım": false
+  },
+  "222": {
+    "ing": "sound",
+    "tr": "söylemek",
+    "sonuç": 0,
+    "id": 222
+  ,"yardım": false
+  },
+  "223": {
+    "ing": "laugh",
+    "tr": "gülmek",
+    "sonuç": 0,
+    "id": 223
+  ,"yardım": false
+  },
+  "224": {
+    "ing": "realise",
+    "tr": "farketmek",
+    "sonuç": 0,
+    "id": 224
+  ,"yardım": false
+  },
+  "225": {
+    "ing": "extend",
+    "tr": "uzatmak",
+    "sonuç": 0,
+    "id": 225
+  ,"yardım": false
+  },
+  "226": {
+    "ing": "arise",
+    "tr": "ortaya çıkmak",
+    "sonuç": 0,
+    "id": 226
+  ,"yardım": false
+  },
+  "227": {
+    "ing": "notice",
+    "tr": "farketmek",
+    "sonuç": 0,
+    "id": 227
+  ,"yardım": false
+  },
+  "228": {
+    "ing": "define",
+    "tr": "açıklamak",
+    "sonuç": 0,
+    "id": 228
+  ,"yardım": false
+  },
+  "229": {
+    "ing": "examine",
+    "tr": "incelemek",
+    "sonuç": 0,
+    "id": 229
+  ,"yardım": false
+  },
+  "230": {
+    "ing": "fit",
+    "tr": "sığmak",
+    "sonuç": 0,
+    "id": 230
+  ,"yardım": false
+  },
+  "231": {
+    "ing": "study",
+    "tr": "çalışmak",
+    "sonuç": 0,
+    "id": 231
+  ,"yardım": false
+  },
+  "232": {
+    "ing": "bear",
+    "tr": "taşımak",
+    "sonuç": 0,
+    "id": 232
+  ,"yardım": false
+  },
+  "233": {
+    "ing": "hang",
+    "tr": "asmak",
+    "sonuç": 0,
+    "id": 233
+  ,"yardım": false
+  },
+  "234": {
+    "ing": "recognise",
+    "tr": "tanımak",
+    "sonuç": 0,
+    "id": 234
+  ,"yardım": false
+  },
+  "235": {
+    "ing": "shake",
+    "tr": "sallamak",
+    "sonuç": 0,
+    "id": 235
+  ,"yardım": false
+  },
+  "236": {
+    "ing": "sign",
+    "tr": "imzalamak",
+    "sonuç": 0,
+    "id": 236
+  ,"yardım": false
+  },
+  "237": {
+    "ing": "attend",
+    "tr": "katılmak",
+    "sonuç": 0,
+    "id": 237
+  ,"yardım": false
+  },
+  "238": {
+    "ing": "fly",
+    "tr": "uçmak",
+    "sonuç": 0,
+    "id": 238
+  ,"yardım": false
+  },
+  "239": {
+    "ing": "gain",
+    "tr": "kazanmak",
+    "sonuç": 0,
+    "id": 239
+  ,"yardım": false
+  },
+  "240": {
+    "ing": "perform",
+    "tr": "yapmak",
+    "sonuç": 0,
+    "id": 240
+  ,"yardım": false
+  },
+  "241": {
+    "ing": "result",
+    "tr": "sonuçlanmak",
+    "sonuç": 0,
+    "id": 241
+  ,"yardım": false
+  },
+  "242": {
+    "ing": "travel",
+    "tr": "seyahat etmek",
+    "sonuç": 0,
+    "id": 242
+  ,"yardım": false
+  },
+  "243": {
+    "ing": "adopt",
+    "tr": "sahip çıkmak",
+    "sonuç": 0,
+    "id": 243
+  ,"yardım": false
+  },
+  "244": {
+    "ing": "confirm",
+    "tr": "onaylamak",
+    "sonuç": 0,
+    "id": 244
+  ,"yardım": false
+  },
+  "245": {
+    "ing": "protect",
+    "tr": "korumak",
+    "sonuç": 0,
+    "id": 245
+  ,"yardım": false
+  },
+  "246": {
+    "ing": "demand",
+    "tr": "istmek",
+    "sonuç": 0,
+    "id": 246
+  ,"yardım": false
+  },
+  "247": {
+    "ing": "stare",
+    "tr": "bakmak",
+    "sonuç": 0,
+    "id": 247
+  ,"yardım": false
+  },
+  "248": {
+    "ing": "imagine",
+    "tr": "hayal etmek",
+    "sonuç": 0,
+    "id": 248
+  ,"yardım": false
+  },
+  "249": {
+    "ing": "attempt",
+    "tr": "denemek",
+    "sonuç": 0,
+    "id": 249
+  ,"yardım": false
+  },
+  "250": {
+    "ing": "beat",
+    "tr": "dövmek",
+    "sonuç": 0,
+    "id": 250
+  ,"yardım": false
+  },
+  "251": {
+    "ing": "born",
+    "tr": "doğmak",
+    "sonuç": 0,
+    "id": 251
+  ,"yardım": false
+  },
+  "252": {
+    "ing": "associate",
+    "tr": "birleştirmek",
+    "sonuç": 0,
+    "id": 252
+  ,"yardım": false
+  },
+  "253": {
+    "ing": "care",
+    "tr": "ilgilenmek",
+    "sonuç": 0,
+    "id": 253
+  ,"yardım": false
+  },
+  "254": {
+    "ing": "marry",
+    "tr": "evlenmek",
+    "sonuç": 0,
+    "id": 254
+  ,"yardım": false
+  },
+  "255": {
+    "ing": "collect",
+    "tr": "toplamak",
+    "sonuç": 0,
+    "id": 255
+  ,"yardım": false
+  },
+  "256": {
+    "ing": "voice",
+    "tr": "seslendirmek",
+    "sonuç": 0,
+    "id": 256
+  ,"yardım": false
+  },
+  "257": {
+    "ing": "employ",
+    "tr": "iş vermek",
+    "sonuç": 0,
+    "id": 257
+  ,"yardım": false
+  },
+  "258": {
+    "ing": "issue",
+    "tr": "bildirmek",
+    "sonuç": 0,
+    "id": 258
+  ,"yardım": false
+  },
+  "259": {
+    "ing": "release",
+    "tr": "açıklamak",
+    "sonuç": 0,
+    "id": 259
+  ,"yardım": false
+  },
+  "260": {
+    "ing": "emerge",
+    "tr": "ortaya çıkmak",
+    "sonuç": 0,
+    "id": 260
+  ,"yardım": false
+  },
+  "261": {
+    "ing": "mind",
+    "tr": "önemsemek",
+    "sonuç": 0,
+    "id": 261
+  ,"yardım": false
+  },
+  "262": {
+    "ing": "aim",
+    "tr": "hedeflemek",
+    "sonuç": 0,
+    "id": 262
+  ,"yardım": false
+  },
+  "263": {
+    "ing": "deny",
+    "tr": "inkar etmek",
+    "sonuç": 0,
+    "id": 263
+  ,"yardım": false
+  },
+  "264": {
+    "ing": "mark",
+    "tr": "işaretlemek",
+    "sonuç": 0,
+    "id": 264
+  ,"yardım": false
+  },
+  "265": {
+    "ing": "shoot",
+    "tr": "vurmak",
+    "sonuç": 0,
+    "id": 265
+  ,"yardım": false
+  },
+  "266": {
+    "ing": "appoint",
+    "tr": "ayarlamak",
+    "sonuç": 0,
+    "id": 266
+  ,"yardım": false
+  },
+  "267": {
+    "ing": "order",
+    "tr": "emretmek",
+    "sonuç": 0,
+    "id": 267
+  ,"yardım": false
+  },
+  "268": {
+    "ing": "supply",
+    "tr": "sağlamak",
+    "sonuç": 0,
+    "id": 268
+  ,"yardım": false
+  },
+  "269": {
+    "ing": "drink",
+    "tr": "içmek",
+    "sonuç": 0,
+    "id": 269
+  ,"yardım": false
+  },
+  "270": {
+    "ing": "observe",
+    "tr": "incelemek",
+    "sonuç": 0,
+    "id": 270
+  ,"yardım": false
+  },
+  "271": {
+    "ing": "reply",
+    "tr": "yanıtlamak",
+    "sonuç": 0,
+    "id": 271
+  ,"yardım": false
+  },
+  "272": {
+    "ing": "ignore",
+    "tr": "önemsememek",
+    "sonuç": 0,
+    "id": 272
+  ,"yardım": false
+  },
+  "273": {
+    "ing": "link",
+    "tr": "bağlamak",
+    "sonuç": 0,
+    "id": 273
+  ,"yardım": false
+  },
+  "274": {
+    "ing": "propose",
+    "tr": "teklif etmek",
+    "sonuç": 0,
+    "id": 274
+  ,"yardım": false
+  },
+  "275": {
+    "ing": "ring",
+    "tr": "çalmak",
+    "sonuç": 0,
+    "id": 275
+  ,"yardım": false
+  },
+  "276": {
+    "ing": "settle",
+    "tr": "yerleşmek",
+    "sonuç": 0,
+    "id": 276
+  ,"yardım": false
+  },
+  "277": {
+    "ing": "strike",
+    "tr": "vurmak",
+    "sonuç": 0,
+    "id": 277
+  ,"yardım": false
+  },
+  "278": {
+    "ing": "press",
+    "tr": "bastırmak",
+    "sonuç": 0,
+    "id": 278
+  ,"yardım": false
+  },
+  "279": {
+    "ing": "respond",
+    "tr": "cevap vermek",
+    "sonuç": 0,
+    "id": 279
+  ,"yardım": false
+  },
+  "280": {
+    "ing": "arrange",
+    "tr": "ayarlamak",
+    "sonuç": 0,
+    "id": 280
+  ,"yardım": false
+  },
+  "281": {
+    "ing": "survive",
+    "tr": "sağ kalmak",
+    "sonuç": 0,
+    "id": 281
+  ,"yardım": false
+  },
+  "282": {
+    "ing": "concentrate",
+    "tr": "odaklanmak",
+    "sonuç": 0,
+    "id": 282
+  ,"yardım": false
+  },
+  "283": {
+    "ing": "lift",
+    "tr": "kaldırmak",
+    "sonuç": 0,
+    "id": 283
+  ,"yardım": false
+  },
+  "284": {
+    "ing": "approach",
+    "tr": "yaklaşmak",
+    "sonuç": 0,
+    "id": 284
+  ,"yardım": false
+  },
+  "285": {
+    "ing": "cross",
+    "tr": "geçmek",
+    "sonuç": 0,
+    "id": 285
+  ,"yardım": false
+  },
+  "286": {
+    "ing": "test",
+    "tr": "test etmek",
+    "sonuç": 0,
+    "id": 286
+  ,"yardım": false
+  },
+  "287": {
+    "ing": "charge",
+    "tr": "yüklemek",
+    "sonuç": 0,
+    "id": 287
+  ,"yardım": false
+  },
+  "288": {
+    "ing": "experience",
+    "tr": "deneyimlemek",
+    "sonuç": 0,
+    "id": 288
+  ,"yardım": false
+  },
+  "289": {
+    "ing": "touch",
+    "tr": "dokunmak",
+    "sonuç": 0,
+    "id": 289
+  ,"yardım": false
+  },
+  "290": {
+    "ing": "acquire",
+    "tr": "edinmek",
+    "sonuç": 0,
+    "id": 290
+  ,"yardım": false
+  },
+  "291": {
+    "ing": "commit",
+    "tr": "işlemek",
+    "sonuç": 0,
+    "id": 291
+  ,"yardım": false
+  },
+  "292": {
+    "ing": "demonstrate",
+    "tr": "göstermek",
+    "sonuç": 0,
+    "id": 292
+  ,"yardım": false
+  },
+  "293": {
+    "ing": "grant",
+    "tr": "izin vermek",
+    "sonuç": 0,
+    "id": 293
+  ,"yardım": false
+  },
+  "294": {
+    "ing": "prefer",
+    "tr": "tercih etmek",
+    "sonuç": 0,
+    "id": 294
+  ,"yardım": false
+  },
+  "295": {
+    "ing": "repeat",
+    "tr": "tekrar etmek",
+    "sonuç": 0,
+    "id": 295
+  ,"yardım": false
+  },
+  "296": {
+    "ing": "sleep",
+    "tr": "uyumak",
+    "sonuç": 0,
+    "id": 296
+  ,"yardım": false
+  },
+  "297": {
+    "ing": "threaten",
+    "tr": "tehdit etmek",
+    "sonuç": 0,
+    "id": 297
+  ,"yardım": false
+  },
+  "298": {
+    "ing": "feed",
+    "tr": "beslemek",
+    "sonuç": 0,
+    "id": 298
+  ,"yardım": false
+  },
+  "299": {
+    "ing": "insist",
+    "tr": "ısrar etmek",
+    "sonuç": 0,
+    "id": 299
+  ,"yardım": false
+  },
+  "300": {
+    "ing": "launch",
+    "tr": "başlatmak",
+    "sonuç": 0,
+    "id": 300
+  ,"yardım": false
+  },
+  "301": {
+    "ing": "limit",
+    "tr": "sınırlamak",
+    "sonuç": 0,
+    "id": 301
+  ,"yardım": false
+  },
+  "302": {
+    "ing": "promote",
+    "tr": "desteklemek",
+    "sonuç": 0,
+    "id": 302
+  ,"yardım": false
+  },
+  "303": {
+    "ing": "deliver",
+    "tr": "göndermek",
+    "sonuç": 0,
+    "id": 303
+  ,"yardım": false
+  },
+  "304": {
+    "ing": "measure",
+    "tr": "ölçmek",
+    "sonuç": 0,
+    "id": 304
+  ,"yardım": false
+  },
+  "305": {
+    "ing": "own",
+    "tr": "sahip olmak",
+    "sonuç": 0,
+    "id": 305
+  ,"yardım": false
+  },
+  "306": {
+    "ing": "retain",
+    "tr": "sürdürmek",
+    "sonuç": 0,
+    "id": 306
+  ,"yardım": false
+  },
+  "307": {
+    "ing": "assess",
+    "tr": "hesaplamak",
+    "sonuç": 0,
+    "id": 307
+  ,"yardım": false
+  },
+  "308": {
+    "ing": "attract",
+    "tr": "cezbezmek",
+    "sonuç": 0,
+    "id": 308
+  ,"yardım": false
+  },
+  "309": {
+    "ing": "belong",
+    "tr": "uygun olmak",
+    "sonuç": 0,
+    "id": 309
+  ,"yardım": false
+  },
+  "310": {
+    "ing": "consist",
+    "tr": "içermek",
+    "sonuç": 0,
+    "id": 310
+  ,"yardım": false
+  },
+  "311": {
+    "ing": "contribute",
+    "tr": "destek olmak",
+    "sonuç": 0,
+    "id": 311
+  ,"yardım": false
+  },
+  "312": {
+    "ing": "hide",
+    "tr": "saklanmak",
+    "sonuç": 0,
+    "id": 312
+  ,"yardım": false
+  },
+  "313": {
+    "ing": "promise",
+    "tr": "söz vermek",
+    "sonuç": 0,
+    "id": 313
+  ,"yardım": false
+  },
+  "314": {
+    "ing": "reject",
+    "tr": "reddetmek",
+    "sonuç": 0,
+    "id": 314
+  ,"yardım": false
+  },
+  "315": {
+    "ing": "cry",
+    "tr": "ağlamak",
+    "sonuç": 0,
+    "id": 315
+  ,"yardım": false
+  },
+  "316": {
+    "ing": "impose",
+    "tr": "dayatmak",
+    "sonuç": 0,
+    "id": 316
+  ,"yardım": false
+  },
+  "317": {
+    "ing": "invite",
+    "tr": "davet etmek",
+    "sonuç": 0,
+    "id": 317
+  ,"yardım": false
+  },
+  "318": {
+    "ing": "sing",
+    "tr": "şarkı söylemek",
+    "sonuç": 0,
+    "id": 318
+  ,"yardım": false
+  },
+  "319": {
+    "ing": "vary",
+    "tr": "çeşitlendirmek",
+    "sonuç": 0,
+    "id": 319
+  ,"yardım": false
+  },
+  "320": {
+    "ing": "warn",
+    "tr": "uyarmak",
+    "sonuç": 0,
+    "id": 320
+  ,"yardım": false
+  },
+  "321": {
+    "ing": "address",
+    "tr": "hitap etmek",
+    "sonuç": 0,
+    "id": 321
+  ,"yardım": false
+  },
+  "322": {
+    "ing": "declare",
+    "tr": "ilan etmek",
+    "sonuç": 0,
+    "id": 322
+  ,"yardım": false
+  },
+  "323": {
+    "ing": "destroy",
+    "tr": "yok etmek",
+    "sonuç": 0,
+    "id": 323
+  ,"yardım": false
+  },
+  "324": {
+    "ing": "worry",
+    "tr": "endişelenmek",
+    "sonuç": 0,
+    "id": 324
+  ,"yardım": false
+  },
+  "325": {
+    "ing": "divide",
+    "tr": "ayrılmak",
+    "sonuç": 0,
+    "id": 325
+  ,"yardım": false
+  },
+  "326": {
+    "ing": "head",
+    "tr": "kullanmak",
+    "sonuç": 0,
+    "id": 326
+  ,"yardım": false
+  },
+  "327": {
+    "ing": "name",
+    "tr": "ad vermek",
+    "sonuç": 0,
+    "id": 327
+  ,"yardım": false
+  },
+  "328": {
+    "ing": "stick",
+    "tr": "batırmak",
+    "sonuç": 0,
+    "id": 328
+  ,"yardım": false
+  },
+  "329": {
+    "ing": "nod",
+    "tr": "seçilmek",
+    "sonuç": 0,
+    "id": 329
+  ,"yardım": false
+  },
+  "330": {
+    "ing": "recognize",
+    "tr": "tanımak",
+    "sonuç": 0,
+    "id": 330
+  ,"yardım": false
+  },
+  "331": {
+    "ing": "train",
+    "tr": "eğitmek",
+    "sonuç": 0,
+    "id": 331
+  ,"yardım": false
+  },
+  "332": {
+    "ing": "attack",
+    "tr": "saldırmak",
+    "sonuç": 0,
+    "id": 332
+  ,"yardım": false
+  },
+  "333": {
+    "ing": "clear",
+    "tr": "temizlemek",
+    "sonuç": 0,
+    "id": 333
+  ,"yardım": false
+  },
+  "334": {
+    "ing": "combine",
+    "tr": "birleştirmek",
+    "sonuç": 0,
+    "id": 334
+  ,"yardım": false
+  },
+  "335": {
+    "ing": "handle",
+    "tr": "halletmek",
+    "sonuç": 0,
+    "id": 335
+  ,"yardım": false
+  },
+  "336": {
+    "ing": "influence",
+    "tr": "etkilemek",
+    "sonuç": 0,
+    "id": 336
+  ,"yardım": false
+  },
+  "337": {
+    "ing": "realize",
+    "tr": "fark etmek",
+    "sonuç": 0,
+    "id": 337
+  ,"yardım": false
+  },
+  "338": {
+    "ing": "recommend",
+    "tr": "önermek",
+    "sonuç": 0,
+    "id": 338
+  ,"yardım": false
+  },
+  "339": {
+    "ing": "shout",
+    "tr": "bağırmak",
+    "sonuç": 0,
+    "id": 339
+  ,"yardım": false
+  },
+  "340": {
+    "ing": "spread",
+    "tr": "dağıtmak",
+    "sonuç": 0,
+    "id": 340
+  ,"yardım": false
+  },
+  "341": {
+    "ing": "undertake",
+    "tr": "üstlenmek",
+    "sonuç": 0,
+    "id": 341
+  ,"yardım": false
+  },
+  "342": {
+    "ing": "account",
+    "tr": "açıklamak",
+    "sonuç": 0,
+    "id": 342
+  ,"yardım": false
+  },
+  "343": {
+    "ing": "select",
+    "tr": "seçmek",
+    "sonuç": 0,
+    "id": 343
+  ,"yardım": false
+  },
+  "344": {
+    "ing": "climb",
+    "tr": "tırmanmak",
+    "sonuç": 0,
+    "id": 344
+  ,"yardım": false
+  },
+  "345": {
+    "ing": "contact",
+    "tr": "temas etmek",
+    "sonuç": 0,
+    "id": 345
+  ,"yardım": false
+  },
+  "346": {
+    "ing": "recall",
+    "tr": "hatırlamak",
+    "sonuç": 0,
+    "id": 346
+  ,"yardım": false
+  },
+  "347": {
+    "ing": "secure",
+    "tr": "korumak",
+    "sonuç": 0,
+    "id": 347
+  ,"yardım": false
+  },
+  "348": {
+    "ing": "step",
+    "tr": "adım atmak",
+    "sonuç": 0,
+    "id": 348
+  ,"yardım": false
+  },
+  "349": {
+    "ing": "transfer",
+    "tr": "yollamak",
+    "sonuç": 0,
+    "id": 349
+  ,"yardım": false
+  },
+  "350": {
+    "ing": "welcome",
+    "tr": "karşılamak",
+    "sonuç": 0,
+    "id": 350
+  ,"yardım": false
+  },
+  "351": {
+    "ing": "conclude",
+    "tr": "sonuçlandırmak",
+    "sonuç": 0,
+    "id": 351
+  ,"yardım": false
+  },
+  "352": {
+    "ing": "disappear",
+    "tr": "kaybolmak",
+    "sonuç": 0,
+    "id": 352
+  ,"yardım": false
+  },
+  "353": {
+    "ing": "display",
+    "tr": "göstermek",
+    "sonuç": 0,
+    "id": 353
+  ,"yardım": false
+  },
+  "354": {
+    "ing": "dress",
+    "tr": "giyinmek",
+    "sonuç": 0,
+    "id": 354
+  ,"yardım": false
+  },
+  "355": {
+    "ing": "illustrate",
+    "tr": "anlatmak",
+    "sonuç": 0,
+    "id": 355
+  ,"yardım": false
+  },
+  "356": {
+    "ing": "imply",
+    "tr": "ima etmek",
+    "sonuç": 0,
+    "id": 356
+  ,"yardım": false
+  },
+  "357": {
+    "ing": "organise",
+    "tr": "organize etmek",
+    "sonuç": 0,
+    "id": 357
+  ,"yardım": false
+  },
+  "358": {
+    "ing": "direct",
+    "tr": "yönlendirmek",
+    "sonuç": 0,
+    "id": 358
+  ,"yardım": false
+  },
+  "359": {
+    "ing": "escape",
+    "tr": "kaçmak",
+    "sonuç": 0,
+    "id": 359
+  ,"yardım": false
+  },
+  "360": {
+    "ing": "generate",
+    "tr": "oluşturmak",
+    "sonuç": 0,
+    "id": 360
+  ,"yardım": false
+  },
+  "361": {
+    "ing": "investigate",
+    "tr": "araştırmak",
+    "sonuç": 0,
+    "id": 361
+  ,"yardım": false
+  },
+  "362": {
+    "ing": "remind",
+    "tr": "hatırlamak",
+    "sonuç": 0,
+    "id": 362
+  ,"yardım": false
+  },
+  "363": {
+    "ing": "advise",
+    "tr": "önermek",
+    "sonuç": 0,
+    "id": 363
+  ,"yardım": false
+  },
+  "364": {
+    "ing": "afford",
+    "tr": "karşılamak",
+    "sonuç": 0,
+    "id": 364
+  ,"yardım": false
+  },
+  "365": {
+    "ing": "earn",
+    "tr": "kazanmak",
+    "sonuç": 0,
+    "id": 365
+  ,"yardım": false
+  },
+  "366": {
+    "ing": "hand",
+    "tr": "vermek",
+    "sonuç": 0,
+    "id": 366
+  ,"yardım": false
+  },
+  "367": {
+    "ing": "inform",
+    "tr": "haber vermek",
+    "sonuç": 0,
+    "id": 367
+  ,"yardım": false
+  },
+  "368": {
+    "ing": "rely",
+    "tr": "güvenmek",
+    "sonuç": 0,
+    "id": 368
+  ,"yardım": false
+  },
+  "369": {
+    "ing": "succeed",
+    "tr": "başarmak",
+    "sonuç": 0,
+    "id": 369
+  ,"yardım": false
+  },
+  "370": {
+    "ing": "approve",
+    "tr": "onaylamak",
+    "sonuç": 0,
+    "id": 370
+  ,"yardım": false
+  },
+  "371": {
+    "ing": "burn",
+    "tr": "yanmak",
+    "sonuç": 0,
+    "id": 371
+  ,"yardım": false
+  },
+  "372": {
+    "ing": "fear",
+    "tr": "korkmak",
+    "sonuç": 0,
+    "id": 372
+  ,"yardım": false
+  },
+  "373": {
+    "ing": "vote",
+    "tr": "oy vermek",
+    "sonuç": 0,
+    "id": 373
+  ,"yardım": false
+  },
+  "374": {
+    "ing": "conduct",
+    "tr": "yönetmek",
+    "sonuç": 0,
+    "id": 374
+  ,"yardım": false
+  },
+  "375": {
+    "ing": "cope",
+    "tr": "başa çıkmak",
+    "sonuç": 0,
+    "id": 375
+  ,"yardım": false
+  },
+  "376": {
+    "ing": "derive",
+    "tr": "türetmek",
+    "sonuç": 0,
+    "id": 376
+  ,"yardım": false
+  },
+  "377": {
+    "ing": "elect",
+    "tr": "seçmek",
+    "sonuç": 0,
+    "id": 377
+  ,"yardım": false
+  },
+  "378": {
+    "ing": "gather",
+    "tr": "toplamak",
+    "sonuç": 0,
+    "id": 378
+  ,"yardım": false
+  },
+  "379": {
+    "ing": "jump",
+    "tr": "zıplamak",
+    "sonuç": 0,
+    "id": 379
+  ,"yardım": false
+  },
+  "380": {
+    "ing": "last",
+    "tr": "sürmek (süre)",
+    "sonuç": 0,
+    "id": 380
+  ,"yardım": false
+  },
+  "381": {
+    "ing": "match",
+    "tr": "eşleştirmek",
+    "sonuç": 0,
+    "id": 381
+  ,"yardım": false
+  },
+  "382": {
+    "ing": "matter",
+    "tr": "önemli olmak",
+    "sonuç": 0,
+    "id": 382
+  ,"yardım": false
+  },
+  "383": {
+    "ing": "persuade",
+    "tr": "ikna etmek",
+    "sonuç": 0,
+    "id": 383
+  ,"yardım": false
+  },
+  "384": {
+    "ing": "ride",
+    "tr": "binmek",
+    "sonuç": 0,
+    "id": 384
+  ,"yardım": false
+  },
+  "385": {
+    "ing": "shut",
+    "tr": "kapatmak",
+    "sonuç": 0,
+    "id": 385
+  ,"yardım": false
+  },
+  "386": {
+    "ing": "blow",
+    "tr": "üflemek",
+    "sonuç": 0,
+    "id": 386
+  ,"yardım": false
+  },
+  "387": {
+    "ing": "estimate",
+    "tr": "tahmin etmek",
+    "sonuç": 0,
+    "id": 387
+  ,"yardım": false
+  },
+  "388": {
+    "ing": "recover",
+    "tr": "iyileşmek",
+    "sonuç": 0,
+    "id": 388
+  ,"yardım": false
+  },
+  "389": {
+    "ing": "score",
+    "tr": "puan almak",
+    "sonuç": 0,
+    "id": 389
+  ,"yardım": false
+  },
+  "390": {
+    "ing": "slip",
+    "tr": "kaymak",
+    "sonuç": 0,
+    "id": 390
+  ,"yardım": false
+  },
+  "391": {
+    "ing": "count",
+    "tr": "saymak",
+    "sonuç": 0,
+    "id": 391
+  ,"yardım": false
+  },
+  "392": {
+    "ing": "hate",
+    "tr": "nefret etmek",
+    "sonuç": 0,
+    "id": 392
+  ,"yardım": false
+  },
+  "393": {
+    "ing": "attach",
+    "tr": "eklemek",
+    "sonuç": 0,
+    "id": 393
+  ,"yardım": false
+  },
+  "394": {
+    "ing": "exercise",
+    "tr": "egzersiz yapmak",
+    "sonuç": 0,
+    "id": 394
+  ,"yardım": false
+  },
+  "395": {
+    "ing": "house",
+    "tr": "yerleşmek",
+    "sonuç": 0,
+    "id": 395
+  ,"yardım": false
+  },
+  "396": {
+    "ing": "lean",
+    "tr": "yaslanmak",
+    "sonuç": 0,
+    "id": 396
+  ,"yardım": false
+  },
+  "397": {
+    "ing": "roll",
+    "tr": "yuvarlamak",
+    "sonuç": 0,
+    "id": 397
+  ,"yardım": false
+  },
+  "398": {
+    "ing": "wash",
+    "tr": "yıkamak",
+    "sonuç": 0,
+    "id": 398
+  ,"yardım": false
+  },
+  "399": {
+    "ing": "accompany",
+    "tr": "katılmak",
+    "sonuç": 0,
+    "id": 399
+  ,"yardım": false
+  },
+  "400": {
+    "ing": "accuse",
+    "tr": "suçlamak",
+    "sonuç": 0,
+    "id": 400
+  ,"yardım": false
+  },
+  "401": {
+    "ing": "bind",
+    "tr": "bağlamak",
+    "sonuç": 0,
+    "id": 401
+  ,"yardım": false
+  },
+  "402": {
+    "ing": "explore",
+    "tr": "keşfetmek",
+    "sonuç": 0,
+    "id": 402
+  ,"yardım": false
+  },
+  "403": {
+    "ing": "judge",
+    "tr": "yargılamak",
+    "sonuç": 0,
+    "id": 403
+  ,"yardım": false
+  },
+  "404": {
+    "ing": "rest",
+    "tr": "dinlenmek",
+    "sonuç": 0,
+    "id": 404
+  ,"yardım": false
+  },
+  "405": {
+    "ing": "steal",
+    "tr": "çalmak",
+    "sonuç": 0,
+    "id": 405
+  ,"yardım": false
+  },
+  "406": {
+    "ing": "comment",
+    "tr": "yorumlamak",
+    "sonuç": 0,
+    "id": 406
+  ,"yardım": false
+  },
+  "407": {
+    "ing": "exclude",
+    "tr": "dışlamak",
+    "sonuç": 0,
+    "id": 407
+  ,"yardım": false
+  },
+  "408": {
+    "ing": "focus",
+    "tr": "odaklanmak",
+    "sonuç": 0,
+    "id": 408
+  ,"yardım": false
+  },
+  "409": {
+    "ing": "hurt",
+    "tr": "incinmek",
+    "sonuç": 0,
+    "id": 409
+  ,"yardım": false
+  },
+  "410": {
+    "ing": "stretch",
+    "tr": "gerinmek",
+    "sonuç": 0,
+    "id": 410
+  ,"yardım": false
+  },
+  "411": {
+    "ing": "withdraw",
+    "tr": "çekmek",
+    "sonuç": 0,
+    "id": 411
+  ,"yardım": false
+  },
+  "412": {
+    "ing": "back",
+    "tr": "yardım etmek",
+    "sonuç": 0,
+    "id": 412
+  ,"yardım": false
+  },
+  "413": {
+    "ing": "fix",
+    "tr": "onarmak",
+    "sonuç": 0,
+    "id": 413
+  ,"yardım": false
+  },
+  "414": {
+    "ing": "justify",
+    "tr": "savunmak",
+    "sonuç": 0,
+    "id": 414
+  ,"yardım": false
+  },
+  "415": {
+    "ing": "knock",
+    "tr": "vurmak",
+    "sonuç": 0,
+    "id": 415
+  ,"yardım": false
+  },
+  "416": {
+    "ing": "pursue",
+    "tr": "devam ettirmek",
+    "sonuç": 0,
+    "id": 416
+  ,"yardım": false
+  },
+  "417": {
+    "ing": "switch",
+    "tr": "değiştirmek",
+    "sonuç": 0,
+    "id": 417
+  ,"yardım": false
+  },
+  "418": {
+    "ing": "appreciate",
+    "tr": "takdir etmek",
+    "sonuç": 0,
+    "id": 418
+  ,"yardım": false
+  },
+  "419": {
+    "ing": "benefit",
+    "tr": "yararlanmak",
+    "sonuç": 0,
+    "id": 419
+  ,"yardım": false
+  },
+  "420": {
+    "ing": "lack",
+    "tr": "yoksun kalmak",
+    "sonuç": 0,
+    "id": 420
+  ,"yardım": false
+  },
+  "421": {
+    "ing": "list",
+    "tr": "sıralamak",
+    "sonuç": 0,
+    "id": 421
+  ,"yardım": false
+  },
+  "422": {
+    "ing": "occupy",
+    "tr": "işgal etmek",
+    "sonuç": 0,
+    "id": 422
+  ,"yardım": false
+  },
+  "423": {
+    "ing": "permit",
+    "tr": "izin vermek",
+    "sonuç": 0,
+    "id": 423
+  ,"yardım": false
+  },
+  "424": {
+    "ing": "surround",
+    "tr": "etrafına sarmak",
+    "sonuç": 0,
+    "id": 424
+  ,"yardım": false
+  },
+  "425": {
+    "ing": "abandon",
+    "tr": "terk etmek",
+    "sonuç": 0,
+    "id": 425
+  ,"yardım": false
+  },
+  "426": {
+    "ing": "blame",
+    "tr": "suçlamak",
+    "sonuç": 0,
+    "id": 426
+  ,"yardım": false
+  },
+  "427": {
+    "ing": "complain",
+    "tr": "yakınmak",
+    "sonuç": 0,
+    "id": 427
+  ,"yardım": false
+  },
+  "428": {
+    "ing": "connect",
+    "tr": "bağlanmak",
+    "sonuç": 0,
+    "id": 428
+  ,"yardım": false
+  },
+  "429": {
+    "ing": "construct",
+    "tr": "inşa etmek",
+    "sonuç": 0,
+    "id": 429
+  ,"yardım": false
+  },
+  "430": {
+    "ing": "dominate",
+    "tr": "baskılamak",
+    "sonuç": 0,
+    "id": 430
+  ,"yardım": false
+  },
+  "431": {
+    "ing": "engage",
+    "tr": "bağlamak",
+    "sonuç": 0,
+    "id": 431
+  ,"yardım": false
+  },
+  "432": {
+    "ing": "paint",
+    "tr": "boyamak",
+    "sonuç": 0,
+    "id": 432
+  ,"yardım": false
+  },
+  "433": {
+    "ing": "quote",
+    "tr": "alıntı",
+    "sonuç": 0,
+    "id": 433
+  ,"yardım": false
+  },
+  "434": {
+    "ing": "view",
+    "tr": "görüntülemek",
+    "sonuç": 0,
+    "id": 434
+  ,"yardım": false
+  },
+  "435": {
+    "ing": "acknowledge",
+    "tr": "kabullenmek",
+    "sonuç": 0,
+    "id": 435
+  ,"yardım": false
+  },
+  "436": {
+    "ing": "dismiss",
+    "tr": "uzaklaştırmak",
+    "sonuç": 0,
+    "id": 436
+  ,"yardım": false
+  },
+  "437": {
+    "ing": "incorporate",
+    "tr": "birleştirmek",
+    "sonuç": 0,
+    "id": 437
+  ,"yardım": false
+  },
+  "438": {
+    "ing": "interpret",
+    "tr": "yorumlamak",
+    "sonuç": 0,
+    "id": 438
+  ,"yardım": false
+  },
+  "439": {
+    "ing": "proceed",
+    "tr": "devam etmek",
+    "sonuç": 0,
+    "id": 439
+  ,"yardım": false
+  },
+  "440": {
+    "ing": "search",
+    "tr": "aramak",
+    "sonuç": 0,
+    "id": 440
+  ,"yardım": false
+  },
+  "441": {
+    "ing": "separate",
+    "tr": "ayırmak",
+    "sonuç": 0,
+    "id": 441
+  ,"yardım": false
+  },
+  "442": {
+    "ing": "stress",
+    "tr": "gerilmek",
+    "sonuç": 0,
+    "id": 442
+  ,"yardım": false
+  },
+  "443": {
+    "ing": "alter",
+    "tr": "değiştirmek",
+    "sonuç": 0,
+    "id": 443
+  ,"yardım": false
+  },
+  "444": {
+    "ing": "analyse",
+    "tr": "analiz etmek",
+    "sonuç": 0,
+    "id": 444
+  ,"yardım": false
+  },
+  "445": {
+    "ing": "arrest",
+    "tr": "tutuklamak",
+    "sonuç": 0,
+    "id": 445
+  ,"yardım": false
+  },
+  "446": {
+    "ing": "bother",
+    "tr": "rahatsız etmek",
+    "sonuç": 0,
+    "id": 446
+  ,"yardım": false
+  },
+  "447": {
+    "ing": "defend",
+    "tr": "savunmak",
+    "sonuç": 0,
+    "id": 447
+  ,"yardım": false
+  },
+  "448": {
+    "ing": "expand",
+    "tr": "genişletmek",
+    "sonuç": 0,
+    "id": 448
+  ,"yardım": false
+  },
+  "449": {
+    "ing": "implement",
+    "tr": "uygulamak",
+    "sonuç": 0,
+    "id": 449
+  ,"yardım": false
+  },
+  "450": {
+    "ing": "possess",
+    "tr": "sahip olmak",
+    "sonuç": 0,
+    "id": 450
+  ,"yardım": false
+  },
+  "451": {
+    "ing": "review",
+    "tr": "değerlendirmek",
+    "sonuç": 0,
+    "id": 451
+  ,"yardım": false
+  },
+  "452": {
+    "ing": "suit",
+    "tr": "uymak",
+    "sonuç": 0,
+    "id": 452
+  ,"yardım": false
+  },
+  "453": {
+    "ing": "tie",
+    "tr": "bağlamak",
+    "sonuç": 0,
+    "id": 453
+  ,"yardım": false
+  },
+  "454": {
+    "ing": "assist",
+    "tr": "yardım etmek",
+    "sonuç": 0,
+    "id": 454
+  ,"yardım": false
+  },
+  "455": {
+    "ing": "calculate",
+    "tr": "hesaplamak",
+    "sonuç": 0,
+    "id": 455
+  ,"yardım": false
+  },
+  "456": {
+    "ing": "glance",
+    "tr": "bakmak",
+    "sonuç": 0,
+    "id": 456
+  ,"yardım": false
+  },
+  "457": {
+    "ing": "mix",
+    "tr": "karıştırmak",
+    "sonuç": 0,
+    "id": 457
+  ,"yardım": false
+  },
+  "458": {
+    "ing": "question",
+    "tr": "sorgulamak",
+    "sonuç": 0,
+    "id": 458
+  ,"yardım": false
+  },
+  "459": {
+    "ing": "resolve",
+    "tr": "çözümlemek",
+    "sonuç": 0,
+    "id": 459
+  ,"yardım": false
+  },
+  "460": {
+    "ing": "rule",
+    "tr": "kural",
+    "sonuç": 0,
+    "id": 460
+  ,"yardım": false
+  },
+  "461": {
+    "ing": "suspect",
+    "tr": "şüphelenmek",
+    "sonuç": 0,
+    "id": 461
+  ,"yardım": false
+  },
+  "462": {
+    "ing": "Wake",
+    "tr": "uynamak",
+    "sonuç": 0,
+    "id": 462
+  ,"yardım": false
+  },
+  "463": {
+    "ing": "appeal",
+    "tr": "başvurmak",
+    "sonuç": 0,
+    "id": 463
+  ,"yardım": false
+  },
+  "464": {
+    "ing": "challenge",
+    "tr": "meydan okumak",
+    "sonuç": 0,
+    "id": 464
+  ,"yardım": false
+  },
+  "465": {
+    "ing": "clean",
+    "tr": "temizlemek",
+    "sonuç": 0,
+    "id": 465
+  ,"yardım": false
+  },
+  "466": {
+    "ing": "damage",
+    "tr": "zedelemek",
+    "sonuç": 0,
+    "id": 466
+  ,"yardım": false
+  },
+  "467": {
+    "ing": "guess",
+    "tr": "tahmin etmek",
+    "sonuç": 0,
+    "id": 467
+  ,"yardım": false
+  },
+  "468": {
+    "ing": "reckon",
+    "tr": "sanmak",
+    "sonuç": 0,
+    "id": 468
+  ,"yardım": false
+  },
+  "469": {
+    "ing": "restore",
+    "tr": "yenilemek",
+    "sonuç": 0,
+    "id": 469
+  ,"yardım": false
+  },
+  "470": {
+    "ing": "restrict",
+    "tr": "sınırlamak",
+    "sonuç": 0,
+    "id": 470
+  ,"yardım": false
+  },
+  "471": {
+    "ing": "specify",
+    "tr": "belirtmek",
+    "sonuç": 0,
+    "id": 471
+  ,"yardım": false
+  },
+  "472": {
+    "ing": "constitute",
+    "tr": "oluşturmak",
+    "sonuç": 0,
+    "id": 472
+  ,"yardım": false
+  },
+  "473": {
+    "ing": "convert",
+    "tr": "çevirmek",
+    "sonuç": 0,
+    "id": 473
+  ,"yardım": false
+  },
+  "474": {
+    "ing": "distinguish",
+    "tr": "ayırmak",
+    "sonuç": 0,
+    "id": 474
+  ,"yardım": false
+  },
+  "475": {
+    "ing": "submit",
+    "tr": "göndermek",
+    "sonuç": 0,
+    "id": 475
+  ,"yardım": false
+  },
+  "476": {
+    "ing": "trust",
+    "tr": "güvenmek",
+    "sonuç": 0,
+    "id": 476
+  ,"yardım": false
+  },
+  "477": {
+    "ing": "urge",
+    "tr": "ısrar etmek",
+    "sonuç": 0,
+    "id": 477
+  ,"yardım": false
+  },
+  "478": {
+    "ing": "feature",
+    "tr": "yayınlamak",
+    "sonuç": 0,
+    "id": 478
+  ,"yardım": false
+  },
+  "479": {
+    "ing": "land",
+    "tr": "karaya çıkmak",
+    "sonuç": 0,
+    "id": 479
+  ,"yardım": false
+  },
+  "480": {
+    "ing": "locate",
+    "tr": "yerleşmek",
+    "sonuç": 0,
+    "id": 480
+  ,"yardım": false
+  },
+  "481": {
+    "ing": "predict",
+    "tr": "tahmin etmek",
+    "sonuç": 0,
+    "id": 481
+  ,"yardım": false
+  },
+  "482": {
+    "ing": "preserve",
+    "tr": "korumak",
+    "sonuç": 0,
+    "id": 482
+  ,"yardım": false
+  },
+  "483": {
+    "ing": "solve",
+    "tr": "çözmek",
+    "sonuç": 0,
+    "id": 483
+  ,"yardım": false
+  },
+  "484": {
+    "ing": "sort",
+    "tr": "düzenlemek",
+    "sonuç": 0,
+    "id": 484
+  ,"yardım": false
+  },
+  "485": {
+    "ing": "struggle",
+    "tr": "zorlanmak",
+    "sonuç": 0,
+    "id": 485
+  ,"yardım": false
+  },
+  "486": {
+    "ing": "cast",
+    "tr": "dökmek",
+    "sonuç": 0,
+    "id": 486
+  ,"yardım": false
+  },
+  "487": {
+    "ing": "cook",
+    "tr": "pişirmek",
+    "sonuç": 0,
+    "id": 487
+  ,"yardım": false
+  },
+  "488": {
+    "ing": "dance",
+    "tr": "dans etmek",
+    "sonuç": 0,
+    "id": 488
+  ,"yardım": false
+  },
+  "489": {
+    "ing": "invest",
+    "tr": "yatırım",
+    "sonuç": 0,
+    "id": 489
+  ,"yardım": false
+  },
+  "490": {
+    "ing": "lock",
+    "tr": "kilitlemek",
+    "sonuç": 0,
+    "id": 490
+  ,"yardım": false
+  },
+  "491": {
+    "ing": "owe",
+    "tr": "borçlanmak",
+    "sonuç": 0,
+    "id": 491
+  ,"yardım": false
+  },
+  "492": {
+    "ing": "pour",
+    "tr": "dökmek",
+    "sonuç": 0,
+    "id": 492
+  ,"yardım": false
+  },
+  "493": {
+    "ing": "shift",
+    "tr": "değiştirmek",
+    "sonuç": 0,
+    "id": 493
+  ,"yardım": false
+  },
+  "494": {
+    "ing": "kick",
+    "tr": "tekme atmak",
+    "sonuç": 0,
+    "id": 494
+  ,"yardım": false
+  },
+  "495": {
+    "ing": "kiss",
+    "tr": "öpmek",
+    "sonuç": 0,
+    "id": 495
+  ,"yardım": false
+  },
+  "496": {
+    "ing": "light",
+    "tr": "yakmak",
+    "sonuç": 0,
+    "id": 496
+  ,"yardım": false
+  },
+  "497": {
+    "ing": "purchase",
+    "tr": "satın almak",
+    "sonuç": 0,
+    "id": 497
+  ,"yardım": false
+  },
+  "498": {
+    "ing": "race",
+    "tr": "yarışmak",
+    "sonuç": 0,
+    "id": 498
+  ,"yardım": false
+  },
+  "499": {
+    "ing": "retire",
+    "tr": "emekli olmak",
+    "sonuç": 0,
+    "id": 499
+  ,"yardım": false
+  }
+,"yardım": false
+  }
