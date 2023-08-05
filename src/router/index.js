@@ -7,10 +7,6 @@ import { createRouter, createWebHashHistory} from "vue-router";
     path:'/jsonmake',                                                 
     name:'JsonMake',                                              
     component: ()=> import ("/src/router/views/JsonGenPage.vue")       
-},{                                                  
-    path:'/deneme',                                                 
-    name:'Deneme',                                              
-    component: ()=> import ("/src/router/views/DenemePage.vue")       
 }]                                                            
  const router =createRouter({                                      
      history:createWebHashHistory(),                               

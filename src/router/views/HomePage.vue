@@ -37,7 +37,7 @@
     const jsontext = ref([])
     jsontext.value=JSON.parse(JSON.stringify(json))
     const s = ref()
-    var result = ref()
+    var result = null
     result = Object.entries(jsontext.value);
       
       const doğruSonuçlandır = (e) =>{
